@@ -494,6 +494,26 @@
           }
         ]
       }
-    }
+    },
+		"image": {
+			"*": {
+				"imageScaling": [{
+					"imageScalingType": "Normal"
+				}],
+        "lockAspect": [{
+          "show": true
+        }],
+        "title": [
+          {
+            "show": false
+          }
+        ],
+        "background": [
+          {
+            "show": false
+          }
+        ]
+			}
+		}
   }
 }
