@@ -1,0 +1,15 @@
+Primary
+#31353D
+Secondary
+#25282E
+Surface
+#1D2025
+Surface Secondary
+#44484F
+
+
+#ffffff
+#D6D6D6
+#C1C1C1
+
+#6F6F6F
