@@ -194,6 +194,12 @@
             "fontColor": { "solid": { "color": "#3170b7" }}
           }
         ],
+        
+        "background": [
+          {
+            "show": false
+          }
+        ],
         "title": [{
           "show": false
         }],
@@ -222,6 +228,7 @@
         }],
         "columnHeaders": [{
           "backColor": { "solid": { "color": "#FFFFFF" }},
+          "fontColor": { "solid": { "color": "#050709" }},
           "fontSize": 13,
           "stepped": true,
           "steppedLayoutIndentation": 25,
